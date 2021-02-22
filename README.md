@@ -1,2 +1,2 @@
 # KRC
-This paper has been accepted by 11th IEEE International Conference on Knowledge Graph (ICKG-2020)
+This code is based on https://github.com/thunlp/OpenKE/tree/OpenKE-Tensorflow1.0
